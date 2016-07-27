@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__l3gd20.a  CMakeFiles/drivers__l3gd20.dir/l3gd20.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__l3gd20.a

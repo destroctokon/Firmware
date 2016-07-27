@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libmodules__load_mon.a  CMakeFiles/modules__load_mon.dir/load_mon.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libmodules__load_mon.a

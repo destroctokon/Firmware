@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libmodules__sensors.a  CMakeFiles/modules__sensors.dir/sensors.cpp.obj CMakeFiles/modules__sensors.dir/sensors_init.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libmodules__sensors.a

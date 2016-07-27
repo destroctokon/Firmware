@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__gimbal.a  CMakeFiles/drivers__gimbal.dir/gimbal.cpp.obj CMakeFiles/drivers__gimbal.dir/gimbal_params.c.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__gimbal.a

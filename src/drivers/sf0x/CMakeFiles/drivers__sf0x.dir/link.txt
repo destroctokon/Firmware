@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__sf0x.a  CMakeFiles/drivers__sf0x.dir/sf0x.cpp.obj CMakeFiles/drivers__sf0x.dir/sf0x_parser.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__sf0x.a

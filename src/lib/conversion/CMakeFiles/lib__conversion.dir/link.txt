@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc liblib__conversion.a  CMakeFiles/lib__conversion.dir/rotation.cpp.obj
+/usr/bin/arm-none-eabi-ranlib liblib__conversion.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__blinkm.a  CMakeFiles/drivers__blinkm.dir/blinkm.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__blinkm.a

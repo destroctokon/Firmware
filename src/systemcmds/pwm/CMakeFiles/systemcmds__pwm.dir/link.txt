@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libsystemcmds__pwm.a  CMakeFiles/systemcmds__pwm.dir/pwm.c.obj
+/usr/bin/arm-none-eabi-ranlib libsystemcmds__pwm.a

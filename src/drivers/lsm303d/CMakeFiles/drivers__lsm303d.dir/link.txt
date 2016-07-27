@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__lsm303d.a  CMakeFiles/drivers__lsm303d.dir/lsm303d.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__lsm303d.a

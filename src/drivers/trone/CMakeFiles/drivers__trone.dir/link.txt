@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__trone.a  CMakeFiles/drivers__trone.dir/trone.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__trone.a

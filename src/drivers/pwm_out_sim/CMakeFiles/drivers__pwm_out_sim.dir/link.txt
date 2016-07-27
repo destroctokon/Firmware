@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__pwm_out_sim.a  CMakeFiles/drivers__pwm_out_sim.dir/pwm_out_sim.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__pwm_out_sim.a

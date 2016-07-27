@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc liblib__launchdetection.a  CMakeFiles/lib__launchdetection.dir/LaunchDetector.cpp.obj CMakeFiles/lib__launchdetection.dir/CatapultLaunchMethod.cpp.obj
+/usr/bin/arm-none-eabi-ranlib liblib__launchdetection.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__mpu6000.a  CMakeFiles/drivers__mpu6000.dir/mpu6000.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__mpu6000.a

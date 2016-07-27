@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libsystemcmds__config.a  CMakeFiles/systemcmds__config.dir/config.c.obj
+/usr/bin/arm-none-eabi-ranlib libsystemcmds__config.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libmodules__attitude_estimator_q.a  CMakeFiles/modules__attitude_estimator_q.dir/attitude_estimator_q_main.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libmodules__attitude_estimator_q.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libsystemcmds__reboot.a  CMakeFiles/systemcmds__reboot.dir/reboot.c.obj
+/usr/bin/arm-none-eabi-ranlib libsystemcmds__reboot.a

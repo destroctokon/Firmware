@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libdrivers__airspeed.a  CMakeFiles/drivers__airspeed.dir/airspeed.cpp.obj
+/usr/bin/arm-none-eabi-ranlib libdrivers__airspeed.a
